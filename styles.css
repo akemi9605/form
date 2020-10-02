@@ -1,0 +1,11 @@
+
+.form-container {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    padding: 30px;
+    margin-top: 5vh;
+    background-color: aliceblue;
+}
+body {
+    background: url('https://cdn.wallpapersafari.com/15/1/zYsbWR.jpg') no-repeat;
+}
